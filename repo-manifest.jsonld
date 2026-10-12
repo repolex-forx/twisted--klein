@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twisted/klein/commit/722840bf1b9d7a725c5b4710b8b4255ebe87562f",
       "git:hexsha": "722840bf1b9d7a725c5b4710b8b4255ebe87562f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T03:04:10.204944+00:00"
     },
     {
       "@id": "https://repolex.ai/r/twisted/klein/commit/4a327f8987e0956a0cdcd721c1f34914e5dd89ee",
